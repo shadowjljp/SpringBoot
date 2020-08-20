@@ -1,0 +1,7 @@
+package com.example.demo;
+
+public class Labtop {
+	private int lid;
+	private String brand;
+	
+}

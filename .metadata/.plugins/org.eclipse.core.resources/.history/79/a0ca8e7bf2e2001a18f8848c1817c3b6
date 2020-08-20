@@ -1,0 +1,5 @@
+insert into alien values(101,'Navin')
+insert into alien values(102,'Kevin')
+insert into alien values(103,'Lerry')
+insert into alien values(104,'Robert')
+insert into alien values(105,'Nathen')
